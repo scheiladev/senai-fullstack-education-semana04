@@ -2,7 +2,7 @@
 
 ## Resolução dos exercícios da Semana 4
 
-### [M1S04] Ex 1 - Lista de Cursos e Professores
+### M1S04 | Ex 1 - Lista de Cursos e Professores
 
 Criar dois ArrayList para armazenar lista de cursos e professores.
 Utilizando um laço de repetição, pedir ao usuário que informe alguns cursos/professores ou um comando para sair (pode ser "0", mas fique à vontade para mudar).
@@ -11,7 +11,7 @@ Para isso, criar funções para:
 - Adicionar curso/professores na lista
 - Ao sair listar os cursos/professores inseridos
 
-### [M1S04] Ex 2 - Lista de cursos e professores - Com menu de opções
+### M1S04 | Ex 2 - Lista de cursos e professores - Com menu de opções
 
 Vamos melhorar nosso sistema!
 
@@ -30,7 +30,7 @@ Obs.: Altere a função listar para que seja exibido o índice ao lado de cada i
 **ADICIONAR**</br>
 Quando a opção escolhida for "Adicionar", utilizar a função criada para adicionar no Exercício 1.
 
-### [M1S04] Ex 3 - Lista de cursos e professores - Nova opção no menu
+### M1S04 | Ex 3 - Lista de cursos e professores - Nova opção no menu
 
 Após esta refatoração realizada no Exercício 2, adicione uma opção no menu para que o curso/professores seja removido
 
@@ -52,7 +52,7 @@ Criar 3 novas funções *(nomes das funções são apenas sugestões):*
   - precisa receber o índice por parâmetro
   - na sequência realizar a remoção do item existente no índice
 
-### [M1S04] Ex 4 - Lista de cursos concluídos
+### M1S04 | Ex 4 - Lista de cursos concluídos
 
 Continuando nosso projeto!
 
@@ -72,7 +72,7 @@ Após criar a lista, será necessário adicionar mais opções no menu:
   - adicionar na nova lista de concluídos o curso escolhido pelo usuário
   - remover item da lista de cursos utilizando a função `removerItem` *(criada no Exercício 3)*. Dessa forma o curso/professores será movido para a nova lista.
 
-### [M1S04] Ex 5 - (POO Abstração) Criar classes de curso e professor
+### M1S04 | Ex 5 - (POO Abstração) Criar classes de curso e professor
 
 Vamos adicionar um pouco de Orientação a Objetos em nosso projeto
 
